@@ -7,6 +7,8 @@
 ## 📂 Project Overview
 
 **Course Master** is a Flutter-based application that provides a platform for people to learn from the invaluable courses. Learners can choose any course as per their need or interest.
+![image](https://github.com/user-attachments/assets/64a2f993-0052-4847-bc26-614a9b15cff3)
+
 ##
 <!-- Lets get started -->
 <div>
@@ -25,9 +27,9 @@
 
 3. **Change the directory:** Change to the repository directory on your computer (if you are not already there):
 
-```bash
-   cd .\educational_app\
-```
+   ```bash
+      cd .\educational_app\
+   ```
 
 4. **Add a remote upstream:** Set up a remote upstream to the original repository by running the following command in your terminal:
 
