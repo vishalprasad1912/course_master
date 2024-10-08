@@ -7,7 +7,10 @@
 ## 📂 Project Overview
 
 **Course Master** is a Flutter-based application that provides a platform for people to learn from the invaluable courses. Learners can choose any course as per their need or interest.
-![image](https://github.com/user-attachments/assets/64a2f993-0052-4847-bc26-614a9b15cff3)
+
+![image](https://github.com/user-attachments/assets/718633d9-92a6-4567-884e-3c9ffbeef793)
+![image](https://github.com/user-attachments/assets/8aa09fb3-7fa2-4157-aad6-a8d98a6f1fcd)
+![image](https://github.com/user-attachments/assets/c097e92c-ea56-43c8-a724-20242ead9da2)
 
 ##
 <!-- Lets get started -->
